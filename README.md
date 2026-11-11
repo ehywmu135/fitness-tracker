@@ -1,6 +1,6 @@
 # Fitness Tracker (PWA)
 
-A personal workout and nutrition tracker for two people, built as an installable, offline-first web app. It runs on our iPhones from the home screen and replaces a third-party fitness app with one fitted to our own training programs. The interface is in Hebrew (right-to-left).
+A personal workout and nutrition tracker for two people, built as an installable, offline-first web app. It runs on our iPhones from the home screen and fitted to our own training programs. The interface is in Hebrew (right-to-left).
 
 <p>
   <img src="docs/exercise.png" width="230" alt="Exercise screen with today's target and rest timer" />
