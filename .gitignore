@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Hosting / local tooling
+.netlify
+.claude
+
+# Raw source material (photos and screenshots I was sent, not part of the app)
+/nutrition photos/
+/ohads nutrition/
+/training 1 photos/
+/training 2 photos/
+/training 3 photos/
+/*.zip
+/*.png
+/screenshot.mjs
+
+# Exercise photos taken from a commercial trainer app are not redistributed.
+# Only the public-domain photos (o-*.jpg, from free-exercise-db) are in the repo.
+/public/exercises/*
+!/public/exercises/o-*.jpg
